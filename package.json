@@ -1,0 +1,1 @@
+{\n  "name": "emergencia-transital",\n  "version": "1.0.0",\n  "description": "Traffic assistance app for emergencies",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "test": "echo \"Error: no test specified\" && exit 1"\n  },\n  "author": "Davialmeida","license": "MIT",\n  "dependencies": {\n    "express": "^4.17.1",\n    "dotenv": "^10.0.0"\n  }\n}
